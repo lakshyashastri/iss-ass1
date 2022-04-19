@@ -1,8 +1,8 @@
 #!/bin/bash  
 
-# read -r file_name
+read -r file_name
 # file_name="sample2.txt"
-file_name="sample-text-file.txt"
+# file_name="sample-text-file.txt"
 
 #doing `cmd < filename` instead of just `cmd filename` removed the filename from the output
 # size of bytes
